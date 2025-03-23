@@ -1,0 +1,9 @@
+Here a bird will fly and many pillars
+will appear across it's path.To survive,
+the bird has to fly through the gaps
+between the pillars and for crossing each
+pillar one point will be added.By  using
+the 'UP' arrow of keyboard or by clicking
+the 'left button' of mouse a player can
+control the flight of the bird.And there
+will be three lives. 
